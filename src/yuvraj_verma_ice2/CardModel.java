@@ -7,7 +7,7 @@ package yuvraj_verma_ice2;
 
 /**
  *
- * @author yuvra
+ * @author yuvraj verma
  */
 public class CardModel {
     //to reuse: change the card genre and the values.
