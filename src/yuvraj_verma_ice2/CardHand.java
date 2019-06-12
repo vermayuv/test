@@ -7,7 +7,7 @@ package yuvraj_verma_ice2;
 
 /**
  *
- * @author yuvra
+ * @author yuvraj verma
  */
 public class CardHand {
     //cohesiion : only creates ann array of the cards
